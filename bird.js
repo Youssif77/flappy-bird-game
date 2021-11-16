@@ -1,6 +1,6 @@
 "use strict";
 const birdElem = document.querySelector(".bird");
-const BIRD_SPEED = 0.1;
+const BIRD_SPEED = 0.3;
 const JUMP_DURATION = 125;
 let timeSinceLastJump = Number.POSITIVE_INFINITY;
 
